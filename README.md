@@ -1,6 +1,6 @@
 # Global Development & Demographics Analysis
 
-## Executive Summary (For Recruiters)
+## Executive Summary
 
 This project demonstrates an **end-to-end Data Analyst workflow** using **SQL + Pandas**, with a strong emphasis on **performance-aware data extraction**, **analytical feature engineering**, and **business-focused visualization**.
 
